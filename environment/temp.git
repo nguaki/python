@@ -1,0 +1,127 @@
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    ../workspace/Projects/Study_hours_grade/linear_regression_live-master/LICENSE
+	deleted:    ../workspace/Projects/Study_hours_grade/linear_regression_live-master/README.md
+	deleted:    ../workspace/Projects/Study_hours_grade/linear_regression_live-master/data.csv
+	deleted:    ../workspace/Projects/Study_hours_grade/linear_regression_live-master/demo.py
+	deleted:    ../workspace/Projects/movie_recommendation/README.md
+	deleted:    ../workspace/Projects/movie_recommendation/recommendation.py
+	deleted:    ../workspace/Projects/movie_recommendation/warmup.py
+	deleted:    ../workspace/README.md
+	deleted:    ../workspace/ex50/bin/app.py
+	deleted:    ../workspace/ex50/gothonweb/__init__.py
+	deleted:    ../workspace/ex50/templates/index.html
+	deleted:    ../workspace/ex50/tests/__init__.py
+	deleted:    ../workspace/math/Big_O/Big_O
+	deleted:    ../workspace/math/Statistics/Probability/probability.md
+	deleted:    ../workspace/math/calculus/ReadeME.MD
+	deleted:    ../workspace/math/calculus/max_rev
+	deleted:    ../workspace/matplotlib/folder1/simple_day_temperature.ipynb
+	deleted:    ../workspace/matplotlib/folder2/format_strings.ipynb
+	deleted:    ../workspace/matplotlib/folder3/format_strings.ipynb
+	deleted:    ../workspace/matplotlib/folder4/legend_grid.ipynb
+	deleted:    ../workspace/matplotlib/folder5/bar_charts.ipynb
+	deleted:    ../workspace/matplotlib/folder6/pie_chart.ipynb
+	deleted:    ../workspace/matplotlib/folder7/save_charts.ipynb
+	deleted:    ../workspace/pandas/10_pivot/pivot.py
+	deleted:    ../workspace/pandas/10_pivot/weather.csv
+	deleted:    ../workspace/pandas/10_pivot/weather2.csv
+	deleted:    ../workspace/pandas/10_pivot/weather3.csv
+	deleted:    ../workspace/pandas/11_melt/melt.py
+	deleted:    ../workspace/pandas/11_melt/weather.csv
+	deleted:    ../workspace/pandas/12_stack/stack.py
+	deleted:    ../workspace/pandas/12_stack/stocks.xlsx
+	deleted:    ../workspace/pandas/12_stack/stocks_3_levels.xlsx
+	deleted:    ../workspace/pandas/13_crosstab/crosstab.py
+	deleted:    ../workspace/pandas/13_crosstab/survey.xls
+	deleted:    ../workspace/pandas/14_ts_datetimeindex/aapl.csv
+	deleted:    ../workspace/pandas/14_ts_datetimeindex/ts_datetimeindex.py
+	deleted:    ../workspace/pandas/15_ts_date_range/aapl.csv
+	deleted:    ../workspace/pandas/15_ts_date_range/aapl_no_dates.csv
+	deleted:    ../workspace/pandas/15_ts_date_range/date_range.py
+	deleted:    ../workspace/pandas/16_ts_holidays/aapl.csv
+	deleted:    ../workspace/pandas/16_ts_holidays/aapl_no_dates.csv
+	deleted:    ../workspace/pandas/16_ts_holidays/holiday.py
+	deleted:    ../workspace/pandas/17_ts_to_date_time/ts_to_date_time.py
+	deleted:    ../workspace/pandas/18_ts_period/ts_period.py
+	deleted:    ../workspace/pandas/18_ts_period/wmt.csv
+	deleted:    ../workspace/pandas/19_ts_timezone/msft.csv
+	deleted:    ../workspace/pandas/19_ts_timezone/timezones_world_map.png
+	deleted:    ../workspace/pandas/19_ts_timezone/ts_timezone.py
+	deleted:    ../workspace/pandas/1_intro/Pandas_introduction.ipynb
+	deleted:    ../workspace/pandas/1_intro/Pandas_introduction.py
+	deleted:    ../workspace/pandas/1_intro/nyc_weather.csv
+	deleted:    ../workspace/pandas/1_intro/pandas_intro.py
+	deleted:    ../workspace/pandas/20_shift_lag/fb.csv
+	deleted:    ../workspace/pandas/20_shift_lag/shift_lag.py
+	deleted:    ../workspace/pandas/2_dataframe_basics/dataframe_basics.py
+	deleted:    ../workspace/pandas/2_dataframe_basics/weather_data.csv
+	deleted:    ../workspace/pandas/3_different_ways_of_creating_dataframe/3_different_ways.py
+	deleted:    ../workspace/pandas/3_different_ways_of_creating_dataframe/weather_data.csv
+	deleted:    ../workspace/pandas/3_different_ways_of_creating_dataframe/weather_data.xlsx
+	deleted:    ../workspace/pandas/4_read_write_to_excel/4_read_writeto_excel.py
+	deleted:    ../workspace/pandas/4_read_write_to_excel/new.csv
+	deleted:    ../workspace/pandas/4_read_write_to_excel/new.xlsx
+	deleted:    ../workspace/pandas/4_read_write_to_excel/read_write_excel_file.txt
+	deleted:    ../workspace/pandas/4_read_write_to_excel/stock_data.csv
+	deleted:    ../workspace/pandas/4_read_write_to_excel/stock_data.xlsx
+	deleted:    ../workspace/pandas/4_read_write_to_excel/stocks_weather.xlsx
+	deleted:    ../workspace/pandas/5_handling_missing_data_fillna_dropna_interpolate/handling_missing_data.py
+	deleted:    ../workspace/pandas/5_handling_missing_data_fillna_dropna_interpolate/missing_data.txt
+	deleted:    ../workspace/pandas/5_handling_missing_data_fillna_dropna_interpolate/weather_data.csv
+	deleted:    ../workspace/pandas/5_handling_missing_data_fillna_dropna_interpolate/weather_data.xls
+	deleted:    ../workspace/pandas/6_handling_missing_data_replace/handling_missing_data_replace.py
+	deleted:    ../workspace/pandas/6_handling_missing_data_replace/weather_data.csv
+	deleted:    ../workspace/pandas/7_group_by/group_by.py
+	deleted:    ../workspace/pandas/7_group_by/group_by_cities.png
+	deleted:    ../workspace/pandas/7_group_by/pandas_group_by.ipynb
+	deleted:    ../workspace/pandas/7_group_by/split_apply_combine.png
+	deleted:    ../workspace/pandas/7_group_by/weather_by_cities.csv
+	deleted:    ../workspace/pandas/8_concat/concat.py
+	deleted:    ../workspace/pandas/9_merge/9_merge.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	../.aws/
+	../.bash_aliases
+	../.bash_history
+	../.bash_logout
+	../.bash_profile
+	../.bashrc
+	../.bashrc-anaconda.bak
+	../.bashrc.c9_original
+	../.c9.c9_original/
+	../.cache/
+	../.conda/
+	../.gemrc
+	../.gitconfig
+	../.gitignore
+	../.gnupg/
+	../.hgrc
+	../.ipython/
+	../.mkshrc
+	../.npm/
+	../.npmrc
+	../.nvm/
+	../.pip/
+	../.profile
+	../.profile.c9_original
+	../.profileE
+	../.rvm/
+	../.ssh/
+	../.sudo_as_admin_successful
+	../.viminfo
+	../.zlogin
+	../.zshrc
+	../Anaconda-2.3.0-Linux-x86_64.sh
+	../anaconda/
+	../environment.c9_original/
+	./
+	../gocode/
+	../package-lock.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
